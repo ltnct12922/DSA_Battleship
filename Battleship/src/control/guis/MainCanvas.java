@@ -26,12 +26,7 @@ public class MainCanvas extends JPanel implements Runnable {
 
     @Override
     public void run() {
-            try {
-                Thread.sleep(sleepTime);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-        }
+    }
 
     public void paintComponent(Graphics g) {
         g.setColor(Color.BLACK);
