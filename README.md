@@ -8,10 +8,14 @@
 	+ Lab Advisor: Nguyen Quang Phu
 	+ Team: NATT
 	+ Members: 
+		
 		Huỳnh Ngọc Hoài Ân - ITITIU20152
-   	 	Lê Tinh Nhựt - ITITIU20268
-    		Trương Quang Tường - ITITIU20130
-    		Nguyễn Huy Thanh - ITITIU20308
+   	 	
+		Lê Tinh Nhựt - ITITIU20268
+    		
+		Trương Quang Tường - ITITIU20130
+    		
+		Nguyễn Huy Thanh - ITITIU20308
 	+ Project: Battleship
 - About Game:
 	+ Programming Language: Java
