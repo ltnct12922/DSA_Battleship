@@ -8,7 +8,7 @@ import javax.swing.WindowConstants;
 
 public class GUI extends JFrame {
     public static final int WIDTH_FRAME = 1100;
-    public static final int HEIGHT_FRAME = 600;
+    public static final int HEIGHT_FRAME = 700;
     private MyContainer myContainer;
 
     public GUI() throws IOException {
@@ -30,6 +30,4 @@ public class GUI extends JFrame {
         myContainer = new MyContainer();
         add(myContainer);
     }
-
-
 }
