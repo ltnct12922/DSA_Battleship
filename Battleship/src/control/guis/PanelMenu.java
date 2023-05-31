@@ -20,7 +20,6 @@ public class PanelMenu extends JPanel implements ActionListener {
 
 
     private JButton btnPlay;
-    private JButton btnLogo;
     private JButton btnExit;
     private IActionShowGame iActionShowGame;
 
