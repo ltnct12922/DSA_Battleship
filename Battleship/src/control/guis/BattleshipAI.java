@@ -1,4 +1,4 @@
-package guis;
+package control.guis;
 
 import java.util.ArrayList;
 import java.util.List;
